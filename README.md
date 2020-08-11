@@ -22,10 +22,9 @@
 12. [imgur-node-api](https://www.npmjs.com/package/imgur-node-api)
 13. [moment](https://www.npmjs.com/package/moment)
 14. [multer](https://www.npmjs.com/package/multer)
-15. [socket.io](https://socket.io/)
-16. [mysql2](https://www.npmjs.com/package/mysql2)
-17. [sequelize](https://www.npmjs.com/package/sequelize)
-18. [sequelize cli](https://www.npmjs.com/package/sequelize-cli)
+15. [mysql2](https://www.npmjs.com/package/mysql2)
+16. [sequelize](https://www.npmjs.com/package/sequelize)
+17. [sequelize cli](https://www.npmjs.com/package/sequelize-cli)
 
 
 ## 安裝步驟
