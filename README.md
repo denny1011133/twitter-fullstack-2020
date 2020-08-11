@@ -18,7 +18,7 @@
 8. [bcryptjs](https://www.npmjs.com/package/bcryptjs)   
 9. [connect-flash](https://www.npmjs.com/package/connect-flash) 
 10. [dotenv](https://www.npmjs.com/package/dotenv)
-11. [faker](https://github.com/marak/faker.js)
+11. [faker.js](https://github.com/marak/faker.js)
 12. [imgur-node-api](https://www.npmjs.com/package/imgur-node-api)
 13. [moment](https://www.npmjs.com/package/moment)
 14. [multer](https://www.npmjs.com/package/multer)
